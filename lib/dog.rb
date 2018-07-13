@@ -6,4 +6,4 @@ attr_accessor :name, :breed
 
 end
 
-fido
+fido = Dog.new
